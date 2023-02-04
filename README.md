@@ -18,7 +18,7 @@ Vale salientar que também possuo MBA em Gestão Estratégica de Pessoas, sob o 
 
 <div align="center">    
   
-   
+    
 </div>
 
 <div align="center">
