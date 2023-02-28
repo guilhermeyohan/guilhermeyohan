@@ -24,7 +24,7 @@ Vale salientar que também possuo MBA em Gestão Estratégica de Pessoas, sob o 
 <div align="center">
   <a href="https://github.com/guilhermeyohan">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeyohan&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeyohan&theme=github_dark&show_border=false&&layout=compact"/>
+
   </a>
 </div>
 
