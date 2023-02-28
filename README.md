@@ -31,8 +31,6 @@ Vale salientar que também possuo MBA em Gestão Estratégica de Pessoas, sob o 
 
 
 
-
-  ![Snake animation](https://github.com/guilhermeyohan/guilhermeyohan/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
